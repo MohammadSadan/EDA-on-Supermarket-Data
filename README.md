@@ -1,2 +1,3 @@
 # EDA-on-Supermarket-Data
-SImple EDA on a supermarket sales dataset
+Simple EDA on a supermarket sales dataset. 
+Dataset link - https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
